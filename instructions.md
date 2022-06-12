@@ -71,6 +71,6 @@ Calculate the following definite integral:
 
 Data: in 1935, about 2/3 of twins were fraternal and 1/3 were identical.
 
-Hint: note that if the brother had been a syster instead, it would not have been possible that they were identical twins.
+Hint: note that if the brother had been a sister instead, it would not have been possible that they were identical twins.
 
 (3) Load the `titanic` dataset. Estimate the probability that a person survived given it was traveling in first class and not alone. Now compare it with the probability of survival given traveling in first class but alone.
