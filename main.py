@@ -51,6 +51,7 @@ catplot2.savefig("plots/catplot2.png")
 f, ax = plt.subplots(figsize=(11, 9))
 violin = sns.violinplot(x="pclass", y="fare", hue="survived", data=titanic)
 f.savefig("plots/violin.png")
+plt.clf()
 
 # %% Exercise: integral
 import numpy as np
